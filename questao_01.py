@@ -1,7 +1,7 @@
 # Questão 01:
 
-notas=[0,0,0,0,0,0,0]
-soma=0
+notas = [0,0,0,0,0,0,0]
+soma = 0
 x=0
 while x<7:
     notas[x]=float(input("Nota %d:" % x))
